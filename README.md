@@ -1,4 +1,4 @@
-- 👋 Hi, I’m not a @NecromancerKing for sure, but that's what happens when you're infatuated with game Avatars. I'm Siavash btw :)
+- 👋 Hi, I’m not a @NecromancerKing for sure, but that's what happens when you're infatuated with game Avatars :innocent:
 - 👀 I'm a C# and dotnet developer. So i dig anything dotnet, predominantly dotnet core nowadays  
       &emsp;&nbsp;&nbsp;but am intersted in modern web as well, and have dabbled a lot with ReactJs and Angular
 - 🌱 I’m currently planning to elevate my mastery on ReactJs to a new level. level 42.
