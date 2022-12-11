@@ -1,4 +1,4 @@
-- 👋 Hi, I’m not a @NecromancerKing for sure, but that's what happens when you're infatuated with game Avatars :innocent:
+- 👋 I’m not a @NecromancerKing, but that's what happens when you're infatuated with game Avatars :innocent:
 - 📫 You can reach my at   
     Email: rostami.siavash@gmail.com    
     LinkedIn: https://www.linkedin.com/in/siavash-rostami    
