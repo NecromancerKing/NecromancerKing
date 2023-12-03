@@ -3,7 +3,6 @@
     Email: rostami.siavash@gmail.com    
     LinkedIn: https://www.linkedin.com/in/siavash-rostami    
     Facebook: https://www.facebook.com/siavash.rostami    
-    Telegram: @Estranged
 
 <!---
 NecromancerKing/NecromancerKing is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
